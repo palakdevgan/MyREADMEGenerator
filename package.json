@@ -1,0 +1,26 @@
+{
+  "name": "myreadmegenerator",
+  "version": "1.0.0",
+  "description": "Generates a Professional README file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palakdevgan/MyREADMEGenerator.git"
+  },
+  "keywords": [
+    "README",
+    "NodeJS"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palakdevgan/MyREADMEGenerator/issues"
+  },
+  "homepage": "https://github.com/palakdevgan/MyREADMEGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
