@@ -1,4 +1,6 @@
 const inquirer =require('inquirer');
+const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 const promptUser = () => {
     return inquirer.prompt([
@@ -130,4 +132,12 @@ const promptUser = () => {
 ]);
 };
 
-promptUser().then(answers => console.log(answers));
+promptUser().then(answers => {
+return   generateMarkdown(answers);  
+})
+.then(READMEData => {
+    fs.writeFile("README.md", READMEData, (err) => {
+        if (err) throw err;
+        console.log('The file has been saved!');
+      });
+});
