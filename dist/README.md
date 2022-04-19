@@ -1,8 +1,9 @@
-# MyREADMEGenerator
+# MyWeatherDashboard
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/~amini/LICENSE.md)
 
 ## Description
 
-User can generate a professional README.md file by answering questions on Command Prompt.
+This dashboard runs in the browser and feature dynamically updated HTML and CSS and uses OpenWeather One call API to get weather data for cities
 
 ## Table of Contents
 
@@ -13,11 +14,11 @@ User can generate a professional README.md file by answering questions on Comman
 
 ## Installation
 
-You can clone the project from GitHub by copying either HTTPS or SSH link.Then go to command prompt in the root directory of the project and type node index.js and hit enter.
+You can clone the project from GitHub by copying either HTTPs or SSH link and go to index.html file and right click and select Open in Default Browser to run app locally.
 
 ## Usage
 
-Go to command prompt in the root directory of the project abd type node index.js and hit enter. Answer the questions on command prompt and then a professional README.md file is generated in dist folder for you.
+Type City name in search bar and click on search to get Weather Data for that city 
 
 ## License
 
@@ -28,8 +29,9 @@ Copyright &copy; 2022, Palak Devgan
 
 To contribute to this project,clone this repo locally and commit your code on separate branch.Then create a pull request for the author before merging it to main branch.
 
-## Link to Walkthrough Video
+## Tests
 
+None
 
 ## Questions
 
