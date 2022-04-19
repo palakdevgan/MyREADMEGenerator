@@ -70,10 +70,10 @@ ${data.description}
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Contributing](#how-to-contribute)
-[License](#license)
+[Installation](#installation)  
+[Usage](#usage)  
+[Contributing](#how-to-contribute)  
+[License](#license)  
 
 ## Installation
 
@@ -85,7 +85,7 @@ ${data.usage}
 
 ## License
 
-${renderLicenseLink(data.license)}
+${renderLicenseLink(data.license)}  
 Copyright &copy; 2022, Palak Devgan
 
 ## How to Contribute
@@ -98,7 +98,7 @@ ${data.tests}
 
 ## Questions
 
-Please find my GitHub Profile [here](https://github.com/${data.github}).
+Please find my GitHub Profile [here](https://github.com/${data.github}).  
 For additional questions please [email](mailto:${data.email}) me.
 `;
 }
