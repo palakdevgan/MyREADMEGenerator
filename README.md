@@ -6,10 +6,10 @@ User can generate a professional README.md file by answering questions on Comman
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Contributing](#how-to-contribute)
-[License](#license)
+[Installation](#installation)  
+[Usage](#usage)  
+[Contributing](#how-to-contribute)  
+[License](#license)  
 
 ## Installation
 
@@ -21,7 +21,7 @@ Go to command prompt in the root directory of the project abd type node index.js
 
 ## License
 
-Licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md) license.
+Licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md) license.  
 Copyright &copy; 2022, Palak Devgan
 
 ## How to Contribute
@@ -33,5 +33,5 @@ https://drive.google.com/file/d/1pFMZ4fiJfSnTECLafP1vPdFm9yh_anaA/view
 
 ## Questions
 
-Please find my GitHub Profile [here](https://github.com/palakdevgan).
+Please find my GitHub Profile [here](https://github.com/palakdevgan).  
 For additional questions please [email](mailto:m7.palak@gmail.com) me.
